@@ -1,7 +1,7 @@
-# OpenModelicaのチュートリアル資料
+﻿# OpenModelicaのチュートリアル資料
 
 OpenModelicaのチュートリアル資料です
 
 
 - - -
-Copyright (C) ueda Shigenori
+Copyright (C) Shigenori Ueda
