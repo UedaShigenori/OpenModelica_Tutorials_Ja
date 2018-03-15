@@ -18,11 +18,13 @@ OpenModelicaのチュートリアル資料です
 
 ## 資料の閲覧  
 もし資料が開けない場合は以下のSlideShareからご確認出来ます  
+
 https://www.slideshare.net/ssusere33bfb/presentations  
 ただし、SlideShareのスライドは誤字や内容の修正がなされる前のものです  
 
 ## ハンズオン
-以下のサイトでSkypeなどを使って無料のオンラインハンズオンを行っています  
+以下のサイトでSkypeなどを使って無料のオンラインハンズオンを行っています  
+
 https://cae-beginner.connpass.com/
 
 - - -
