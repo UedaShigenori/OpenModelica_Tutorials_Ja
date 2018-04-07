@@ -1,12 +1,12 @@
-model PlusB
+model Cal_c
   parameter Real b;
-  Integer Anser;
-  Port Port1 annotation(
-    Placement(visible = true, transformation(origin = {104, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {110, -2}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
+  Real c;
+  Real a;
+  Port port1 annotation(
+    Placement(visible = true, transformation(origin = {-106, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0), iconTransformation(origin = {-110, 0}, extent = {{-10, -10}, {10, 10}}, rotation = 0)));
 equation
-  
-  //Port
-  Port1.var = a;
-  annotation(
-    Icon(graphics = {Rectangle(lineThickness = 1.5, extent = {{-100, 100}, {100, -100}}), Text(origin = {-1, 6}, lineThickness = 1.5, extent = {{-55, 38}, {55, -38}}, textString = "PlusOne")}, coordinateSystem(initialScale = 0.1)));
-end PlusB;
+  a = port1.var;
+  a + b = c;
+annotation(
+    Icon(graphics = {Rectangle(lineThickness = 1.5, extent = {{-100, 100}, {100, -100}}), Text(origin = {-1, 3}, lineThickness = 1.5, extent = {{-55, 19}, {55, -19}}, textString = "a + b = c")}));
+    end Cal_c;
