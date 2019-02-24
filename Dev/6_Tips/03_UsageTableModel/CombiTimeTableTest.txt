@@ -1,0 +1,6 @@
+#1
+double Tab1(4,3) # comment line
+0	0	9
+1	1	4
+2	4	1
+3	9	0
