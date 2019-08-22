@@ -23,7 +23,7 @@ https://www.slideshare.net/ssusere33bfb/presentations
 ただし、SlideShareのスライドは誤字や内容の修正がなされる前のものです  
 
 ## ハンズオン
-以下のサイトでSkypeなどを使って無料のオンラインハンズオンを行っています  
+以下のサイトでオンライン会議システムなどを使って無料のオンラインハンズオンを行っています  
 
 https://cae-beginner.connpass.com/
 
